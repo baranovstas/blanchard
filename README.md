@@ -1,4 +1,4 @@
-# Ссылка на сайт https://baranovstas.github.io/high-pass/
+# Ссылка на сайт https://baranovstas.github.io/blanchard/
 
 **_Стек:_**
 
