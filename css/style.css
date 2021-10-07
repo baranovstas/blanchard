@@ -1133,10 +1133,6 @@ template {
   color: var(--dark-purple);
 }
 
-/* .menu__btn:active.menu__btn::after {
-  background-image: url("data:image/svg+xml,%3Csvg width='12' height='11' viewBox='0 0 12 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 5L6 10L0.999998 5' stroke='%237943A4'/%3E%3C/svg%3E%0A");
-} */
-
 @-webkit-keyframes opacity {
   0% {
     opacity: 0;
