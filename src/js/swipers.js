@@ -253,9 +253,10 @@ const projects = new Swiper('.projects__swiper-container', {
       slidesPerView: 2,
       spaceBetween: 15,
     },
-
+    
     320: {
       slidesPerView: 1,
+      spaceBetween: 21,
     },
   }
 });

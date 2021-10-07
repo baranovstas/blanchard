@@ -181,10 +181,9 @@
   width: 15.625%;
 }
 
-.nav__label,
 .menu__label {
   width: 88%;
-}
+} 
 
 .menu__form:hover .menu__search {
   border-color: var(--light-purple);
@@ -199,7 +198,8 @@
   background-color: transparent;
   border: none;
   font-size: 18px;
-  line-height: 25px;
+  line-height: 21px;
+  height: 100%;
   color: var(--light-purple);
   border-bottom: 1px solid var(--white);
   transition: border-color 0.2s ease;
